@@ -27,7 +27,7 @@ import { BlogPostList } from "@/components/blog-post-list"
 
 export default function Home() {
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="flex flex-col min-h-screen items-center justify-center">
       <HeroSection />
 
       {/* Services Overview */}
