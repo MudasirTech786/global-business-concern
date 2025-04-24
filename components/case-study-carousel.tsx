@@ -14,16 +14,17 @@ const caseStudies = [
     title: "Custom ERP Implementation for Manufacturing Company",
     description:
       "How we helped a manufacturing company streamline operations and increase efficiency by 35% with a custom ERP solution.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/assets/index_erp.jpg",
     category: "ERP Systems",
     link: "/resources/case-studies/manufacturing-erp",
   },
   {
     id: 2,
+    
     title: "AI-Powered Customer Service Automation",
     description:
       "Implementing AI chatbots and automation tools that reduced response times by 60% and improved customer satisfaction.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/assets/index_ai.jpg",
     category: "AI Automation",
     link: "/resources/case-studies/ai-customer-service",
   },
@@ -32,7 +33,7 @@ const caseStudies = [
     title: "Solar Installation Process Optimization",
     description:
       "How our BPO services helped a solar company increase installation capacity by 45% through streamlined pre-installation processes.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/assets/index_solar.jpeg",
     category: "Solar BPO",
     link: "/resources/case-studies/solar-process-optimization",
   },
@@ -40,7 +41,7 @@ const caseStudies = [
     id: 4,
     title: "E-commerce Platform Development",
     description: "Building a scalable e-commerce platform that increased online sales by 120% in the first year.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/assets/index_comerce.jpg",
     category: "Full Stack Development",
     link: "/resources/case-studies/ecommerce-platform",
   },

@@ -10,7 +10,7 @@ const blogPosts = [
     title: "The Future of ERP Systems: AI Integration and Automation",
     excerpt:
       "Explore how artificial intelligence is transforming traditional ERP systems and what it means for businesses.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/assets/index3.jpg",
     category: "ERP Systems",
     author: "John Smith",
     date: "Apr 15, 2023",
@@ -22,7 +22,7 @@ const blogPosts = [
     title: "Streamlining Solar Installation Processes with BPO Services",
     excerpt:
       "Learn how specialized BPO services can help solar installation companies reduce costs and increase efficiency.",
-    image: "/placeholder.svg?height=300&width=500",
+      image: "/assets/index4.jpeg",
     category: "Solar BPO",
     author: "Emily Johnson",
     date: "Mar 22, 2023",
@@ -34,7 +34,7 @@ const blogPosts = [
     title: "Implementing AI Chatbots: Best Practices and Common Pitfalls",
     excerpt:
       "A comprehensive guide to implementing AI chatbots in your business, including best practices and pitfalls to avoid.",
-    image: "/placeholder.svg?height=300&width=500",
+      image: "/assets/index5.jpg",
     category: "AI Automation",
     author: "Michael Chen",
     date: "Feb 10, 2023",

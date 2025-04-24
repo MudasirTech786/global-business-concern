@@ -262,7 +262,7 @@ export default function Home() {
             <div className="relative">
               <div className="relative rounded-lg overflow-hidden shadow-xl">
                 <Image
-                  src="/placeholder.svg?height=600&width=800"
+                  src="assets/index2.jpeg"
                   alt="Team collaboration"
                   width={800}
                   height={600}
@@ -327,7 +327,7 @@ export default function Home() {
                   <MapPin className="h-6 w-6 text-[#288493] mr-3 flex-shrink-0 mt-0.5" />
                   <div>
                     <h3 className="font-semibold text-lg">Visit Us</h3>
-                    <p className="text-gray-500 dark:text-gray-400">Los Angeles, California(CA), 90001</p>
+                    <p className="text-gray-500 dark:text-gray-400">4D Commercial Valencia Lahore</p>
                   </div>
                 </div>
 
@@ -335,7 +335,7 @@ export default function Home() {
                   <Phone className="h-6 w-6 text-[#288493] mr-3 flex-shrink-0 mt-0.5" />
                   <div>
                     <h3 className="font-semibold text-lg">Call Us</h3>
-                    <p className="text-gray-500 dark:text-gray-400">(213) 974-3211</p>
+                    <p className="text-gray-500 dark:text-gray-400">(+92) 3234227053</p>
                   </div>
                 </div>
 
@@ -343,7 +343,7 @@ export default function Home() {
                   <Mail className="h-6 w-6 text-[#288493] mr-3 flex-shrink-0 mt-0.5" />
                   <div>
                     <h3 className="font-semibold text-lg">Email Us</h3>
-                    <p className="text-gray-500 dark:text-gray-400">info@globalbusinessconcern.com</p>
+                    <p className="text-gray-500 dark:text-gray-400">contact@globalbusinessconcern.com</p>
                   </div>
                 </div>
               </div>

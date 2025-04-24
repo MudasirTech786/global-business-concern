@@ -9,7 +9,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
             <div className="flex items-center space-x-2 mb-4">
-              <Image src="/logo.svg" alt="GBC Logo" width={40} height={40} className="h-10 w-10" />
+              <Image src="/assets/footer.png" alt="GBC Logo" width={40} height={40} className="h-10 w-10" />
               <span className="font-bold text-xl text-white">GBC</span>
             </div>
             <p className="text-gray-400 mb-4">
@@ -103,15 +103,15 @@ export function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start">
                 <MapPin className="mr-2 h-5 w-5 text-[#288493] flex-shrink-0 mt-0.5" />
-                <span className="text-gray-400">Los Angeles, California(CA), 90001</span>
+                <span className="text-gray-400">4D Commercial Valencia Lahore</span>
               </li>
               <li className="flex items-center">
                 <Phone className="mr-2 h-5 w-5 text-[#288493]" />
-                <span className="text-gray-400">(213) 974-3211</span>
+                <span className="text-gray-400">(+92) 3234227053</span>
               </li>
               <li className="flex items-center">
                 <Mail className="mr-2 h-5 w-5 text-[#288493]" />
-                <span className="text-gray-400">info@globalbusinessconcern.com</span>
+                <span className="text-gray-400">contact@globalbusinessconcern.com</span>
               </li>
             </ul>
           </div>

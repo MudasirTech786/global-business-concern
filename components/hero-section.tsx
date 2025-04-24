@@ -80,10 +80,10 @@ export function HeroSection() {
           >
             <div className="relative rounded-lg overflow-hidden shadow-2xl">
               <Image
-                src="/placeholder.svg?height=600&width=800"
+                src="/assets/index.jpg"
                 alt="Technology Solutions"
-                width={800}
-                height={600}
+                width={900}
+                height={800}
                 className="object-cover w-full h-full"
                 priority
               />
