@@ -62,7 +62,7 @@ export function Header() {
     <Link href="/" className="flex items-center space-x-2">
   {/* Logo Image */}
   <Image
-    src="/assets/GBC logo.png"
+    src="/assets/GBC.png"
     alt="GBC Logo"
     width={180}
     height={180}
